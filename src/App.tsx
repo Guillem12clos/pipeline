@@ -6,11 +6,6 @@ import git from './imatges/git.png';
 import docker from './imatges/docker.png';
 import JUnit from './imatges/JUnit.png';
 import maven from './imatges/maven.png';
-import prometheus from './imatges/prometheus.png';
-import terraform from './imatges/terraform.png';
-import trello from './imatges/trello.png';
-import XLRelease from './imatges/XLRelease.png';
-
 
 const { inspect } = createBrowserInspector({
   // Comment out the line below to start the inspector
